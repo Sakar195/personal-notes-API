@@ -1,0 +1,23 @@
+{
+  "notes": [
+    {
+      "title": "Grocery Shopping done",
+      "content": "Bought milk, eggs, and bread from the supermarket.",
+      "dateCreated": "2024-08-18",
+      "id": 1,
+      "patched item": "patching also works"
+    },
+    {
+      "id": 2,
+      "title": "Meeting with John",
+      "content": "Discuss the project milestones and next steps.",
+      "dateCreated": "2024-08-19"
+    },
+    {
+      "id": 3,
+      "title": "Workout Plan",
+      "content": "Complete the chest and triceps workout at the gym.",
+      "dateCreated": "2024-08-20"
+    }
+  ]
+}
